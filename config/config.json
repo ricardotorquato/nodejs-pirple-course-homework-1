@@ -1,0 +1,12 @@
+{
+    "staging": {
+        "envName": "staging",
+        "httpPort": 3000,
+        "httpsPort": 3001
+    },
+    "production": {
+        "envName": "production",
+        "httpPort": 5000,
+        "httpsPort": 5001
+    }
+}
